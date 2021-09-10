@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a4a6fb7-23ec-4c85-9314-bf6ad70053b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../projects/alonememo/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week01/homework.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week01/homework2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/homework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/homework.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/alonememo/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../projects/alonememo/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/alonememo/meta_prac.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,6 +89,7 @@
       <updated>1631106295291</updated>
       <workItem from="1631106298252" duration="4998000" />
       <workItem from="1631115145637" duration="2539000" />
+      <workItem from="1631190072333" duration="1062000" />
     </task>
     <servers />
   </component>
